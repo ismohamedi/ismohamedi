@@ -13,7 +13,8 @@
 <a href="https://linkedin.com/in/ismaili-mohamedi-998324143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismaili-mohamedi-998324143" height="30" width="40" /></a>
 <a href="https://instagram.com/ismaili_pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismailipro" height="30" width="40" /></a><br>
   <b>Email Address: </b> <a href="mailto:ismailimohamedi1995@gmail.com">ismailimohamedi1995@gmail.com</a> <br>
-  <b>Phone Number: </b> +255763080423
+  <b>Phone Number: </b> +255763080423 <br>
+  <b>Website:</b> <a href="https://www.ismohamedi.dev" target"_blank">https://www.ismohamedi.dev</a>
 </p>
 
 <h3 align="left">Languages, Framework and Tools:</h3>
