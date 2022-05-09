@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismaili1995" alt="ismaili1995" /></a> </p>
 
-- 💬 Ask me about **Python, Machine Learning, Django, FastAPI, Starlette,React Js, Vue Js**
+- 💬 Ask me about **Python, Machine Learning, Django, FastAPI, Starlette,React Js, Angular, Vue Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
