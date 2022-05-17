@@ -14,7 +14,7 @@
 <a href="https://instagram.com/ismaili_pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismailipro" height="30" width="40" /></a><br>
   <b>Email Address: </b> <a href="mailto:ismohamedi.dev@gmail.com">ismohamedi.dev@gmail.com</a> <br>
   <b>Phone Number: </b> <a href="tel:+255763080423">+255763080423</a><br>
-  <b>Website:</b> <a href="https://www.ismohamedi.dev" target"_blank">https://www.ismohamedi.dev</a>
+  <b>Website: </b> <a href="https://www.ismohamedi.dev" target"_blank">https://www.ismohamedi.dev</a>
 </p>
 
 <h3 align="left">Languages, Framework and Tools:</h3>
