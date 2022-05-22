@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Ismaili Mohamedi</h1>
 <h3 align="center">Software Engineer | Data analyst | Automation Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaili1995&label=Profile%20views&color=0e75b6&style=flat" alt="ismaili1995" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaili1995&label=Profile%20views&color=0e75b6&style=flat" alt="ismaili1995" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismaili1995" alt="ismaili1995" /></a> </p>
 
