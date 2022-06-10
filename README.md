@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/ismaili53627195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ismaili53627195" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ismaili-mohamedi-998324143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismaili-mohamedi-998324143" height="30" width="40" /></a>
-<a href="https://instagram.com/ismaili_pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismailipro" height="30" width="40" /></a><br>
+<a href="https://instagram.com/ismohamedi_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismohamedi_dev" height="30" width="40" /></a><br>
   <b>Email Address: </b> <a href="mailto:ismohamedi.dev@gmail.com">ismohamedi.dev@gmail.com</a> <br>
   <b>Phone Number: </b> <a href="tel:+255763080423">+255763080423</a><br>
   <b>Website: </b> <a href="https://www.ismohamedi.dev" target"_blank">https://www.ismohamedi.dev</a>
