@@ -12,7 +12,7 @@
 <a href="https://twitter.com/ismaili53627195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ismaili53627195" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ismaili-mohamedi-998324143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismaili-mohamedi-998324143" height="30" width="40" /></a>
 <a href="https://instagram.com/ismohamedi_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismohamedi_dev" height="30" width="40" /></a><br>
-  <b>Email Address: </b> <a href="mailto:mail@ismohamedi.dev">mail@ismohamedi.dev</a> <br>
+  <b>Email Address: </b> <a href="mailto:islichinga@exxonim.tz">islichinga@exxonim.tz</a> <br>
   <b>Phone Number: </b> <a href="tel:+255763080423">+255763080423</a><br>
   <b>Website: </b> <a href="https://www.ismohamedi.dev" target"_blank">https://www.ismohamedi.dev</a>
 </p>
